@@ -36,3 +36,6 @@ The backend handles record retrieval logic:
   - Indexing
   - Querying
   - No need for external storage or syncing
+
+## Architecture Diagram
+![Architecture Diagram](./images/cosmosdb-arch.JPG)
